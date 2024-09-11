@@ -33,7 +33,7 @@ Stelle sicher, dass die folgenden Software-Komponenten installiert sind:
 
 ## Bilder
 
-![Logo](Logo.png)
+![Logo](Logo.jpg)
 
 
 
