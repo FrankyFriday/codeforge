@@ -35,11 +35,11 @@ Stelle sicher, dass die folgenden Software-Komponenten installiert sind:
 
 ![Logo](Logo.jpg)
 
-###Anmelde Seite
+### Anmelde Seite
 
 ![Logo](Anmeldeseite.png)
 
-###Hauptmenü
+### Hauptmenü
 
 ![Logo](Hauptmenü.png)
 
