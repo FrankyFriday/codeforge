@@ -35,6 +35,13 @@ Stelle sicher, dass die folgenden Software-Komponenten installiert sind:
 
 ![Logo](Logo.jpg)
 
+#Anmelde Seite
+
+![Logo](Anmeldeseite.png)
+
+#Hauptmenü
+
+![Logo](Hauptmenü.png)
 
 
 ### Installation der Abhängigkeiten
