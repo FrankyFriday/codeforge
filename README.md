@@ -6,6 +6,7 @@
 ## Inhaltsverzeichnis
 - [Funktionen](#funktionen)
 - [Voraussetzungen](#voraussetzungen)
+- [Bilder](#Bilder)
 - [Installation](#installation)
 - [Datenbankeinrichtung](#datenbankeinrichtung)
 - [Verwendung](#verwendung)
@@ -29,6 +30,10 @@ Stelle sicher, dass die folgenden Software-Komponenten installiert sind:
 2. **MySQL** oder XAMPP für lokale Datenbankverwaltung (https://www.apachefriends.org/index.html)
 3. **PyQt5** für die GUI
 4. **MySQL-Connector für Python** zur Interaktion mit der MySQL-Datenbank
+
+## Bilder
+
+
 
 ### Installation der Abhängigkeiten
 
