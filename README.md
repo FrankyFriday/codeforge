@@ -33,7 +33,8 @@ Stelle sicher, dass die folgenden Software-Komponenten installiert sind:
 
 ## Bilder
 
-![Logo](https://github.com/FrankyFriday/codeforge/Logo.png)
+![Logo](Logo.png)
+
 
 
 ### Installation der Abhängigkeiten
