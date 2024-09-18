@@ -169,7 +169,7 @@
             <i class="uil uil-times form_close"></i>
             <!-- Login Form -->
             <div class="form login_form">
-                <form action="login_process.php" method="post">
+                <form action="Process/login_process.php" method="post">
                     <h2>Login bei CodeForge</h2>
 
                     <div class="input_box">
