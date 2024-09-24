@@ -77,7 +77,7 @@ pip install mysql-connector-python
     CREATE DATABASE codeforge;
     ```
 
-3. In der Datei `app.py`, passe die Datenbankverbindung in der Funktion `self.connection` an, um deinen MySQL-Benutzernamen und das Passwort korrekt anzugeben:
+3. In der Datei `codeforge_app.py`, passe die Datenbankverbindung in der Funktion `self.connection` an, um deinen MySQL-Benutzernamen und das Passwort korrekt anzugeben:
 
     ```python
     self.connection = mysql.connector.connect(
